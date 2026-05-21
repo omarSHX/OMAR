@@ -6,7 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "OMARASHX1.aternos.me:11781",
+    "ip": "OMARASHX1.aternos.me:11781
+",
     "port": 11781,
     "version": "",
     "try-creative": false
